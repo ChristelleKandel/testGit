@@ -1,1 +1,3 @@
-index.php
+<?php
+$animal = new Animal;
+$animal -> Informations();
